@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
                             backgroundImage: AssetImage('images/praveen.PNG')
                           ),
                           Text(
-                              'Praveen',
+                              'Praveen m',
                               style: TextStyle(
                                 color: Colors.white,
                                 fontSize: 40,
